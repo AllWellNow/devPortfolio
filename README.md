@@ -1,7 +1,7 @@
 # iOS Developer Portfolio
 Hi! I'm Misha, a junior iOS developer. Welcome to my portfolio :)
 
-Structure of this portfolio is a list of the projects I've done during my path through coding. I'm also adding short description, technologies used and some extra notes to this list. 
+Structure of this portfolio is a list of the projects I've done during my path through coding. I'm also adding short description, technologies used and some extra notes to every project in this list. 
 
 Any questions appeared? Ask me directly! Contact info available right after the last project in the portfolio.
 
