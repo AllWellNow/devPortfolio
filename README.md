@@ -21,13 +21,13 @@ Hungry helps you to lose weight in a most efficient way - intermittent (or inter
   <li>UIKit</li>
   <li> Cocoa Touch (gesture recognizers)</li>
   <li> <a href="https://github.com/danielgindi/Charts">Charts</a></li>
-  <li>TinyConstrains</li>
-  <li>Disk</li>
-  <li>JDFlipNumberView</li>
-  <li>SwiftValidator</li>
-  <li>DeviceKit</li>
-  <li>WaveProgressView</li>
-  <li>DynamicBlurView</li>
+  <li><a href="https://github.com/roberthein/TinyConstraints">TinyConstrains</a></li>
+  <li><a href="https://github.com/saoudrizwan/Disk">Disk</a></li>
+  <li><a href="https://github.com/calimarkus/JDFlipNumberView">JDFlipNumberView</a> obj-c library</li>
+  <li><a href="https://github.com/SwiftValidatorCommunity/SwiftValidator">SwiftValidator</a></li>
+  <li><a href="https://github.com/devicekit/DeviceKit">DeviceKit</a></li>
+  <li>Rewritten <a href="https://github.com/sukov/WaveProgressView">WaveProgressView</a> library</li>
+  <li><a href="https://github.com/KyoheiG3/DynamicBlurView">DynamicBlurView</a></li>
   <li>Push Notifications</li>
   </ul>
   
