@@ -9,7 +9,7 @@ Any questions appeared? Ask me directly! Contact info available right after the 
 
 Hungry helps you to lose weight in a most efficient way - intermittent (or interval) fasting. Some of the core possibilities of the app are:
 <ul>
-  <li>Fasting Tracker - choose your interval and track fasting and eating period</li>
+  <li><b>Fasting Tracker</b> - choose your interval and track fasting and eating period</li>
   <li>Weight Tracker - set starting and goal weight, update current weight and track progress to chosen goal. Weight changes also available in a form of a Chart and a Progress Table</li>
   <li>Water Tracker - set daily water goal and track your consumption, water progress resets every day</li>
   <li>Challenges - choose the one you like, pick a period for it, and try to complete it. Give up option included</li>
@@ -36,6 +36,7 @@ Design was applied with Storyboards, Auto-Layout and programmaticaly
 #### 💡 Notes
 This one is the current flagman project of mine. The app requires no account creation to use it, also it's totally free, no paid features included. 
 The idea was to create user-friendly fasting app with all the necessary functions plus some extra ones and make it free to easen the fasting process for the newcomers
+
 
 <p align="center">
 <a href="https://google.com" target="_blank"><img src="devPortfolioAssets/ifpreview.png" width="900" title="Hungry"></a>
