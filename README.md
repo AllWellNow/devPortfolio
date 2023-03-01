@@ -7,7 +7,14 @@ Any questions appeared? Ask me directly! Contact info available right after the 
 
 ## Hungry - an Intermittent Fasting App
 
-Description
+Hungry helps you to lose weight in a most efficient way - intermittent (or interval) fasting. Some of the core possibilities of the app are:
+<ul>
+  <li>Fasting Tracker - choose your interval and track fasting and eating period</li>
+  <li>Weight Tracker - set starting and goal weight, update current weight and track progress to chosen goal. Weight changes also available in a form of a Chart</li>
+  <li>Water Tracker - set daily water goal and track your consumption, water progress resets every day</li>
+  <li>Challenges - choose the one you like, pick a period for it, and try to complete it. Give up option included</li>
+  <li>Leveling system - to earn levels and unlock new titles simply use the app - stay in chosen fasting period, track water, complete challenges, etc. </li>
+  </ul>
 
 #### ⚙️ Technologies 
 123
