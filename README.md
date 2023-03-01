@@ -37,7 +37,7 @@ Design was applied with Storyboards, Auto-Layout and programmaticaly
 123
 
 <p align="center">
-<a href="https://google.com" target="_blank"><img src="devPortfolioAssets/ifpreview.png" width="500"  height="500" title="Hungry"></a>
+<a href="https://google.com" target="_blank"><img src="devPortfolioAssets/ifpreview.png" width="900" title="Hungry"></a>
 </p>
 
 ## Stocks Prediction App with Twitter API
