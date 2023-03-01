@@ -37,6 +37,7 @@ Design was applied with Storyboards, Auto-Layout and programmaticaly
 This one is the current flagman project of mine. The app requires no account creation to use it, also it's totally free, no paid features included. 
 The idea was to create user-friendly fasting app with all the necessary functions plus some extra ones and make it free to easen the fasting process for the newcomers
 
+#### 🔎 Preview
 
 <p align="center">
 <a href="https://google.com" target="_blank"><img src="devPortfolioAssets/ifpreview.png" width="900" title="Hungry"></a>
