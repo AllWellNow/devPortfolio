@@ -10,14 +10,28 @@ Any questions appeared? Ask me directly! Contact info available right after the 
 Hungry helps you to lose weight in a most efficient way - intermittent (or interval) fasting. Some of the core possibilities of the app are:
 <ul>
   <li>Fasting Tracker - choose your interval and track fasting and eating period</li>
-  <li>Weight Tracker - set starting and goal weight, update current weight and track progress to chosen goal. Weight changes also available in a form of a Chart</li>
+  <li>Weight Tracker - set starting and goal weight, update current weight and track progress to chosen goal. Weight changes also available in a form of a Chart and a Progress Table</li>
   <li>Water Tracker - set daily water goal and track your consumption, water progress resets every day</li>
   <li>Challenges - choose the one you like, pick a period for it, and try to complete it. Give up option included</li>
   <li>Leveling system - to earn levels and unlock new titles simply use the app - stay in chosen fasting period, track water, complete challenges, etc. </li>
   </ul>
 
 #### ⚙️ Technologies 
-123
+<ul>
+  <li>UIKit</li>
+  <li> Cocoa Touch (gesture recognizers)</li>
+  <li>Charts</li>
+  <li>TinyConstrains</li>
+  <li>Disk</li>
+  <li>JDFlipNumberView</li>
+  <li>SwiftValidator</li>
+  <li>DeviceKit</li>
+  <li>WaveProgressView</li>
+  <li>DynamicBlurView</li>
+  <li>Push Notifications</li>
+  </ul>
+  
+Design was applied with Storyboards, Auto-Layout and programmaticaly 
 
 #### 💡 Notes
 123
