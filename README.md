@@ -7,24 +7,56 @@ Any questions appeared? Ask me directly! Contact info available right after the 
 
 ## Intermittent Fasting App
 
-123123
+Description
+
+#### ⚙️Technologies used
+123
+
+#### Notes
+123
 
 ## Stocks Prediction App with Twitter API
 
-123123
+Description
+
+#### Technologies used
+123
+
+#### Notes
+123
 
 ## Weather App with CoreLocation
 
-123123
+Description
+
+#### Technologies used
+123
+
+#### Notes
+123
 
 ## ToDo App with Realm
 
-123132
+Description
+
+#### Technologies used
+123
+
+#### Notes
+123
 
 ## Calculator
 
-123132
+Description
+
+#### Technologies used
+123
+
+#### Notes
+123
 
 ## Contact me
 
-lOl lol xd
+Telegram - @nickname
+LinkedIn - link
+Mail - xd@xdd.com
