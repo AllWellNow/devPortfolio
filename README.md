@@ -53,6 +53,8 @@ Description
 #### 💡 Notes
 123
 
+#### 🔎 Preview
+
 ## Weather App with CoreLocation
 
 Description
@@ -62,6 +64,8 @@ Description
 
 #### 💡 Notes
 123
+
+#### 🔎 Preview
 
 ## ToDo App with Realm
 
@@ -73,6 +77,8 @@ Description
 #### 💡 Notes
 123
 
+#### 🔎 Preview
+
 ## Calculator
 
 Description
@@ -82,6 +88,8 @@ Description
 
 #### 💡 Notes
 123
+
+#### 🔎 Preview
 
 ## Contact me
 
