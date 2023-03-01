@@ -79,7 +79,7 @@ Description
 
 #### 🔎 Preview
 
-## Calculator
+## Bill + Tip split App 
 
 Description
 
