@@ -79,6 +79,10 @@ Description
 
 #### 🔎 Preview
 
+<p align="center">
+<img src="devPortfolioAssets/todoPreview.jpg" width="900" title="B+T">
+</p>
+
 ## Bill + Tip split App 
 
 Description
@@ -90,6 +94,10 @@ Description
 123
 
 #### 🔎 Preview
+
+<p align="center">
+<img src="devPortfolioAssets/billPreview.jpg" width="900" title="B+T">
+</p>
 
 ## Contact me
 
