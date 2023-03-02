@@ -40,7 +40,7 @@ The idea was to create user-friendly fasting app with all the necessary function
 #### 🔎 Preview
 
 <p align="center">
-<a href="https://google.com"><img src="devPortfolioAssets/ifpreview.jpg" width="900" title="Hungry"></a>
+<a href="https://google.com"><img src="devPortfolioAssets/ifPreview.jpg" width="900" title="Hungry"></a>
 </p>
 
 ## Stocks Prediction App with Twitter API and CoreML
