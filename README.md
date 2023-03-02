@@ -20,14 +20,14 @@ Hungry helps you to lose weight in a most efficient way - intermittent (or inter
 <ul>
   <li>UIKit</li>
   <li> Cocoa Touch (gesture recognizers)</li>
-  <li> <a href="https://github.com/danielgindi/Charts" target="blank">Charts</a></li>
-  <li><a href="https://github.com/roberthein/TinyConstraints" target="_blank">TinyConstrains</a></li>
-  <li><a href="https://github.com/saoudrizwan/Disk" target="_blank">Disk</a></li>
-  <li><a href="https://github.com/calimarkus/JDFlipNumberView" target="_blank">JDFlipNumberView</a> obj-c library</li>
-  <li><a href="https://github.com/SwiftValidatorCommunity/SwiftValidator" target="_blank">SwiftValidator</a></li>
-  <li><a href="https://github.com/devicekit/DeviceKit" target="_blank">DeviceKit</a></li>
-  <li>Rewritten <a href="https://github.com/sukov/WaveProgressView" target="_blank">WaveProgressView</a> library</li>
-  <li><a href="https://github.com/KyoheiG3/DynamicBlurView" target="_blank">DynamicBlurView</a></li>
+  <li> <a href="https://github.com/danielgindi/Charts">Charts</a></li>
+  <li><a href="https://github.com/roberthein/TinyConstraints">TinyConstrains</a></li>
+  <li><a href="https://github.com/saoudrizwan/Disk">Disk</a></li>
+  <li><a href="https://github.com/calimarkus/JDFlipNumberView">JDFlipNumberView</a> obj-c library</li>
+  <li><a href="https://github.com/SwiftValidatorCommunity/SwiftValidator">SwiftValidator</a></li>
+  <li><a href="https://github.com/devicekit/DeviceKit">DeviceKit</a></li>
+  <li>Rewritten <a href="https://github.com/sukov/WaveProgressView">WaveProgressView</a> library</li>
+  <li><a href="https://github.com/KyoheiG3/DynamicBlurView">DynamicBlurView</a></li>
   <li>Push Notifications</li>
 </ul>
   
@@ -40,7 +40,7 @@ The idea was to create user-friendly fasting app with all the necessary function
 #### 🔎 Preview
 
 <p align="center">
-<a href="https://google.com" target="_blank"><img src="devPortfolioAssets/ifpreview.jpg" width="900" title="Hungry" target="_blank"></a>
+<a href="https://google.com"><img src="devPortfolioAssets/ifpreview.jpg" width="900" title="Hungry"></a>
 </p>
 
 ## Stocks Prediction App with Twitter API and CoreML
@@ -52,7 +52,7 @@ App helps you to get current positive or negative involvement of Twitter's users
   <li>UIKit</li>
   <li> Twitter API v2</li>
   <li> CoreML</li>
-  <li><a href="https://github.com/SwiftyJSON/SwiftyJSON" target="_blank">SwiftyJSON</a></li>
+  <li><a href="https://github.com/SwiftyJSON/SwiftyJSON">SwiftyJSON</a></li>
 </ul>
 
 #### 💡 Notes
@@ -61,7 +61,7 @@ For this project I also used currently deprecated framework - Swifter. I needed 
 #### 🔎 Preview
 
 <p align="center">
-<img src="devPortfolioAssets/stocksPreview.jpg" width="900" title="Stocks" target="_blank">
+<img src="devPortfolioAssets/stocksPreview.jpg" width="900" title="Stocks">
 </p>
 
 ## Weather App with Weather API and CoreLocation
@@ -79,7 +79,7 @@ Simple app which allows user to get actual weather data. User's geo and dark mod
 #### 🔎 Preview
 
 <p align="center">
-<img src="devPortfolioAssets/weatherPreview.jpg" width="900" title="Weather" target="_blank">
+<img src="devPortfolioAssets/weatherPreview.jpg" width="900" title="Weather">
 </p>
 
 ## ToDo App with Realm
@@ -98,7 +98,7 @@ During development of this app at some point I switched from CoreData to Realm t
 #### 🔎 Preview
 
 <p align="center">
-<img src="devPortfolioAssets/todoPreview.jpg" width="900" title="ToDo" target="_blank">
+<img src="devPortfolioAssets/todoPreview.jpg" width="900" title="ToDo">
 </p>
 
 ## Bill + Tip split App 
@@ -116,13 +116,13 @@ Everybody starts with classics, simple calculator for simple needs
 #### 🔎 Preview
 
 <p align="center">
-<img src="devPortfolioAssets/billPreview.jpg" width="900" title="B+T" target="_blank">
+<img src="devPortfolioAssets/billPreview.jpg" width="900" title="B+T">
 </p>
 
 ## Contact me
 
-##### Telegram - <a href="https://www.t.me/allwellnow" target="_blank">@allwellnow</a>
+##### Telegram - <a href="https://www.t.me/allwellnow">@allwellnow</a>
 
-##### LinkedIn - <a href="https://www.linkedin.com/in/mishademidenko/" target="_blank">link</a>
+##### LinkedIn - <a href="https://www.linkedin.com/in/mishademidenko/">link</a>
 
 ##### Mail - awnisbackwork@gmail.com
