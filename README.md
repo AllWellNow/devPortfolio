@@ -20,14 +20,14 @@ Hungry helps you to lose weight in a most efficient way - intermittent (or inter
 <ul>
   <li>UIKit</li>
   <li> Cocoa Touch (gesture recognizers)</li>
-  <li> <a href="https://github.com/danielgindi/Charts">Charts</a></li>
-  <li><a href="https://github.com/roberthein/TinyConstraints">TinyConstrains</a></li>
-  <li><a href="https://github.com/saoudrizwan/Disk">Disk</a></li>
-  <li><a href="https://github.com/calimarkus/JDFlipNumberView">JDFlipNumberView</a> obj-c library</li>
-  <li><a href="https://github.com/SwiftValidatorCommunity/SwiftValidator">SwiftValidator</a></li>
-  <li><a href="https://github.com/devicekit/DeviceKit">DeviceKit</a></li>
-  <li>Rewritten <a href="https://github.com/sukov/WaveProgressView">WaveProgressView</a> library</li>
-  <li><a href="https://github.com/KyoheiG3/DynamicBlurView">DynamicBlurView</a></li>
+  <li> <a href="https://github.com/danielgindi/Charts" target="_blank">Charts</a></li>
+  <li><a href="https://github.com/roberthein/TinyConstraints" target="_blank">TinyConstrains</a></li>
+  <li><a href="https://github.com/saoudrizwan/Disk" target="_blank">Disk</a></li>
+  <li><a href="https://github.com/calimarkus/JDFlipNumberView" target="_blank">JDFlipNumberView</a> obj-c library</li>
+  <li><a href="https://github.com/SwiftValidatorCommunity/SwiftValidator" target="_blank">SwiftValidator</a></li>
+  <li><a href="https://github.com/devicekit/DeviceKit" target="_blank">DeviceKit</a></li>
+  <li>Rewritten <a href="https://github.com/sukov/WaveProgressView" target="_blank">WaveProgressView</a> library</li>
+  <li><a href="https://github.com/KyoheiG3/DynamicBlurView" target="_blank">DynamicBlurView</a></li>
   <li>Push Notifications</li>
 </ul>
   
@@ -52,7 +52,7 @@ App helps you to get current positive or negative involvement of Twitter's users
   <li>UIKit</li>
   <li> Twitter API v2</li>
   <li> CoreML</li>
-  <li><a href="https://github.com/SwiftyJSON/SwiftyJSON">SwiftyJSON</a></li>
+  <li><a href="https://github.com/SwiftyJSON/SwiftyJSON" target="_blank">SwiftyJSON</a></li>
 </ul>
 
 #### 💡 Notes
@@ -116,13 +116,13 @@ Everybody starts with classics, simple calculator for simple needs
 #### 🔎 Preview
 
 <p align="center">
-<img src="devPortfolioAssets/billPreview.jpg" width="900" title="B+T">
+<img src="devPortfolioAssets/billPreview.jpg" width="900" title="B+T" target="_blank">
 </p>
 
 ## Contact me
 
-##### Telegram - <a href="https://www.t.me/allwellnow">@allwellnow</a>
+##### Telegram - <a href="https://www.t.me/allwellnow" target="_blank">@allwellnow</a>
 
-##### LinkedIn - <a href="https://www.linkedin.com/in/mishademidenko/">link</a>
+##### LinkedIn - <a href="https://www.linkedin.com/in/mishademidenko/" target="_blank">link</a>
 
 ##### Mail - awnisbackwork@gmail.com
