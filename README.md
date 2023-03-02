@@ -90,6 +90,7 @@ All the necessary ToDo app functional with a colorful gradient design
 <ul>
   <li>UIKit</li>
   <li>Realm</li>
+  <li><a href="https://github.com/SwipeCellKit/SwipeCellKit">SwipeCellKit</a></li>
 </ul>
 
 #### 💡 Notes
