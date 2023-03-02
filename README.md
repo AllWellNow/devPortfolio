@@ -93,7 +93,7 @@ All the necessary ToDo app functional with a colorful gradient design
 </ul>
 
 #### 💡 Notes
-During development of this app at some point I switched from CoreData to Realm to learn about both tools
+During development of this app at some point I switched from CoreData to Realm to learn and compare both tools
 
 #### 🔎 Preview
 
