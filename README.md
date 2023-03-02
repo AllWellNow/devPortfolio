@@ -121,8 +121,8 @@ Everybody starts with classics, simple calculator for simple needs
 
 ## Contact me
 
-#####Telegram - @nickname
+##### Telegram - @nickname
 
-#####LinkedIn - link
+##### LinkedIn - link
 
-#####Mail - xd@xdd.com
+##### Mail - xd@xdd.com
