@@ -121,7 +121,7 @@ Everybody starts with classics, simple calculator for simple needs
 
 ## Contact me
 
-##### Telegram - <a href="t.me/allwellnow">@allwellnow</a>
+##### Telegram - <a href="https://www.t.me/allwellnow">@allwellnow</a>
 
 ##### LinkedIn - <a href="https://www.linkedin.com/in/mishademidenko/">link</a>
 
