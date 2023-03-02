@@ -20,7 +20,7 @@ Hungry helps you to lose weight in a most efficient way - intermittent (or inter
 <ul>
   <li>UIKit</li>
   <li> Cocoa Touch (gesture recognizers)</li>
-  <li> <a href="https://github.com/danielgindi/Charts" target="_blank">Charts</a></li>
+  <li> <a href="https://github.com/danielgindi/Charts" target="blank">Charts</a></li>
   <li><a href="https://github.com/roberthein/TinyConstraints" target="_blank">TinyConstrains</a></li>
   <li><a href="https://github.com/saoudrizwan/Disk" target="_blank">Disk</a></li>
   <li><a href="https://github.com/calimarkus/JDFlipNumberView" target="_blank">JDFlipNumberView</a> obj-c library</li>
