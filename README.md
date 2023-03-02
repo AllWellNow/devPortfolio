@@ -29,7 +29,7 @@ Hungry helps you to lose weight in a most efficient way - intermittent (or inter
   <li>Rewritten <a href="https://github.com/sukov/WaveProgressView">WaveProgressView</a> library</li>
   <li><a href="https://github.com/KyoheiG3/DynamicBlurView">DynamicBlurView</a></li>
   <li>Push Notifications</li>
-  </ul>
+</ul>
   
 Design was applied with Storyboards, Auto-Layout and programmaticaly 
 
@@ -43,15 +43,20 @@ The idea was to create user-friendly fasting app with all the necessary function
 <a href="https://google.com" target="_blank"><img src="devPortfolioAssets/ifpreview.jpg" width="900" title="Hungry"></a>
 </p>
 
-## Stocks Prediction App with Twitter API
+## Stocks Prediction App with Twitter API and CoreML
 
-Description
+App helps you to get current positive or negative involvement of Twitter's users into chosen topic. Just write a brand name after "@" symbol or a hastag after "#" sybmol and machine learning model under the hood will calculate a score and return it to you in a form of emoji. 
 
 #### ⚙️ Technologies 
-123
+<ul>
+  <li>UIKit</li>
+  <li> Twitter API v2</li>
+  <li> CoreML</li>
+  <li><a href="https://github.com/SwiftyJSON/SwiftyJSON">SwiftyJSON</a></li>
+</ul>
 
 #### 💡 Notes
-123
+For this project I also used currently deprecated framework - Swifter. I needed a single method so it was possible with some fixes. MLModel used - "tweetModel"
 
 #### 🔎 Preview
 
