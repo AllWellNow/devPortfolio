@@ -61,7 +61,7 @@ For this project I also used currently deprecated framework - Swifter. I needed 
 #### 🔎 Preview
 
 <p align="center">
-<img src="devPortfolioAssets/stocksPreview.jpg" width="900" title="Stocks">
+<img src="devPortfolioAssets/stocksPreview.jpg" width="900" title="Stocks" target="_blank">
 </p>
 
 ## Weather App with Weather API and CoreLocation
@@ -79,7 +79,7 @@ Simple app which allows user to get actual weather data. User's geo and dark mod
 #### 🔎 Preview
 
 <p align="center">
-<img src="devPortfolioAssets/weatherPreview.jpg" width="900" title="Weather">
+<img src="devPortfolioAssets/weatherPreview.jpg" width="900" title="Weather" target="_blank">
 </p>
 
 ## ToDo App with Realm
@@ -98,7 +98,7 @@ During development of this app at some point I switched from CoreData to Realm t
 #### 🔎 Preview
 
 <p align="center">
-<img src="devPortfolioAssets/todoPreview.jpg" width="900" title="ToDo">
+<img src="devPortfolioAssets/todoPreview.jpg" width="900" title="ToDo" target="_blank">
 </p>
 
 ## Bill + Tip split App 
