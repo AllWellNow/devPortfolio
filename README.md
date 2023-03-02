@@ -55,6 +55,10 @@ Description
 
 #### 🔎 Preview
 
+<p align="center">
+<img src="devPortfolioAssets/stocksPreview.jpg" width="900" title="B+T">
+</p>
+
 ## Weather App with CoreLocation
 
 Description
@@ -66,6 +70,10 @@ Description
 123
 
 #### 🔎 Preview
+
+<p align="center">
+<img src="devPortfolioAssets/weatherPreview.jpg" width="900" title="B+T">
+</p>
 
 ## ToDo App with Realm
 
