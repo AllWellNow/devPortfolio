@@ -1,9 +1,9 @@
 # iOS Developer Portfolio
 Hi! I'm Misha, a junior iOS developer. Welcome to my portfolio :)
 
-Structure of this portfolio is a list of the projects I've done during my path through coding. I'm also adding short description, technologies used and some extra notes to every project in this list. 
+Structure of this portfolio is a list of the projects I've done during my path through coding. I'm also adding short description, technologies used and  extra notes to some projects in this list. 
 
-Any questions appeared? Ask me directly! Contact info available right after the last project in the portfolio.
+Any questions appeared? Ask me directly! Contact info available right after the last project in the portfolio
 
 ## Hungry - an Intermittent Fasting App
 
@@ -45,7 +45,7 @@ The idea was to create user-friendly fasting app with all the necessary function
 
 ## Stocks Prediction App with Twitter API and CoreML
 
-App helps you to get current positive or negative involvement of Twitter's users into chosen topic. Just write a brand name after "@" symbol or a hastag after "#" sybmol and machine learning model under the hood will calculate a score and return it to you in a form of emoji. 
+App helps you to get current positive or negative involvement of Twitter's users into chosen topic. Just write a brand name after "@" symbol or a hastag after "#" sybmol and machine learning model under the hood will calculate a score and return it to you in a form of emoji
 
 #### ⚙️ Technologies 
 <ul>
@@ -64,15 +64,17 @@ For this project I also used currently deprecated framework - Swifter. I needed 
 <img src="devPortfolioAssets/stocksPreview.jpg" width="900" title="B+T">
 </p>
 
-## Weather App with CoreLocation
+## Weather App with Weather API and CoreLocation
 
-Description
+Simple app which allows user to get actual weather data. User's geo and dark mode supported
 
 #### ⚙️ Technologies 
-123
-
-#### 💡 Notes
-123
+<ul>
+  <li>UIKit</li>
+  <li> Weather API</li>
+  <li> CoreLocation</li>
+  <li> Networking (URLSession + JSONDecoder)</li>
+</ul>
 
 #### 🔎 Preview
 
@@ -82,13 +84,16 @@ Description
 
 ## ToDo App with Realm
 
-Description
+All the necessary ToDo app functional with a colorful gradient design
 
 #### ⚙️ Technologies 
-123
+<ul>
+  <li>UIKit</li>
+  <li>Realm</li>
+</ul>
 
 #### 💡 Notes
-123
+During development of this app at some point I switched from CoreData to Realm to learn about both tools
 
 #### 🔎 Preview
 
@@ -98,13 +103,15 @@ Description
 
 ## Bill + Tip split App 
 
-Description
+Just a calculator! Insert your total bill, choose number of people to share between, add a tip percentage if you want and receive amount of money each of you have to pay. Currency localization supported
 
 #### ⚙️ Technologies 
-123
+<ul>
+  <li>UIKit</li>
+</ul>
 
 #### 💡 Notes
-123
+Everybody starts with classics, simple calculator for simple needs
 
 #### 🔎 Preview
 
