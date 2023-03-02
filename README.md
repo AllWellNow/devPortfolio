@@ -122,5 +122,7 @@ Everybody starts with classics, simple calculator for simple needs
 ## Contact me
 
 #####Telegram - @nickname
+
 #####LinkedIn - link
+
 #####Mail - xd@xdd.com
