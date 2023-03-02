@@ -121,8 +121,8 @@ Everybody starts with classics, simple calculator for simple needs
 
 ## Contact me
 
-##### Telegram - @nickname
+##### Telegram - <a href="t.me/allwellnow">@allwellnow</a>
 
-##### LinkedIn - link
+##### LinkedIn - <a href="https://www.linkedin.com/in/mishademidenko/">link</a>
 
-##### Mail - xd@xdd.com
+##### Mail - awnisbackwork@gmail.com
