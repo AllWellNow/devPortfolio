@@ -124,6 +124,6 @@ Everybody starts with classics, simple calculator for simple needs
 
 ##### Telegram - <a href="https://www.t.me/allwellnow">@allwellnow</a>
 
-##### LinkedIn - <a href="https://www.linkedin.com/in/mishademidenko/">link</a>
+##### LinkedIn - <a href="https://www.linkedin.com/in/mishademidenko/">Misha Demidenko</a>
 
 ##### Mail - awnisbackwork@gmail.com
