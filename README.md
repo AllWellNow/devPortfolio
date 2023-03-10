@@ -84,7 +84,7 @@ Simple app which allows user to get actual weather data. User's geo and dark mod
 
 ## ToDo App with Realm
 
-All the necessary ToDo app functional with a colorful gradient design
+All the necessary functionality for a ToDo app with a colorful gradient design
 
 #### ⚙️ Technologies 
 <ul>
