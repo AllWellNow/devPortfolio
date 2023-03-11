@@ -126,4 +126,4 @@ Everybody starts with classics, simple calculator for simple needs
 
 ##### LinkedIn - <a href="https://www.linkedin.com/in/mishademidenko/">Misha Demidenko</a>
 
-##### Mail - awnisbackwork@gmail.com
+##### Mail - awnisbackwork@gmail.com 
