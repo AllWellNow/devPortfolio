@@ -5,7 +5,7 @@ Structure of this portfolio is a list of the projects I've done during my path t
 
 Any questions appeared? Ask me directly! Contact info available right after the last project in the portfolio
 
-## Hungry - an Intermittent Fasting App
+## <a href="https://apps.apple.com/pl/app/hungry-intermittent-fasting/id6446183174">Hungry</a> - an Intermittent Fasting App
 
 Hungry helps you to lose weight in a most efficient way - intermittent (or interval) fasting. Some of the core possibilities of the app are:
 <ul>
