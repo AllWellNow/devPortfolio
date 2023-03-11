@@ -1,13 +1,13 @@
 # iOS Developer Portfolio
 Hi! I'm Misha, a junior iOS developer. Welcome to my portfolio :)
 
-Structure of this portfolio is a list of the projects I've done during my path through coding. I'm also adding short description, technologies used and  extra notes to some projects in this list. 
+The structure of this portfolio is a list of the projects I've done during my path through coding. I'm also adding short descriptions, technologies used, and extra notes to some projects in this list.
 
 Any questions appeared? Ask me directly! Contact info available right after the last project in the portfolio
 
 ## <a href="https://apps.apple.com/pl/app/hungry-intermittent-fasting/id6446183174">Hungry</a> - an Intermittent Fasting App
 
-Hungry helps you to lose weight in a most efficient way - intermittent (or interval) fasting. Some of the core possibilities of the app are:
+Hungry helps you to lose weight in the most efficient way - intermittent (or interval) fasting. Some of the core possibilities of the app are:
 <ul>
   <li>Fasting Tracker - choose your interval and track fasting and eating period</li>
   <li>Weight Tracker - set starting and goal weight, update current weight and track progress to chosen goal. Weight changes also available in a form of a Chart and a Progress Table</li>
@@ -35,7 +35,7 @@ Design was applied with Storyboards, Auto-Layout and programmaticaly
 
 #### 💡 Notes
 This one is the current flagman project of mine <a href="https://apps.apple.com/pl/app/hungry-intermittent-fasting/id6446183174">available</a> on the AppStore. The app requires no account creation to use it, also it's totally free, no paid features included. 
-The idea was to create user-friendly fasting app with all the necessary functions plus some extra ones and make it free to easen the fasting process for the newcomers
+The idea was to create a user-friendly fasting app with all the necessary functions plus some extra ones and make it free to easen the fasting process for the newcomers
 
 #### 🔎 Preview
 
@@ -45,7 +45,7 @@ The idea was to create user-friendly fasting app with all the necessary function
 
 ## Stocks Prediction App with Twitter API and CoreML
 
-App helps you to get current positive or negative involvement of Twitter's users into chosen topic. Just write a brand name after "@" symbol or a hastag after "#" sybmol and machine learning model under the hood will calculate a score and return it to you in a form of emoji
+The app helps you to get the current positive or negative involvement of Twitter users into the chosen topic. Just write a brand name after the "@" symbol or a hashtag after the "#" symbol and the machine learning model under the hood will calculate a score and return it to you in a form of emoji
 
 #### ⚙️ Technologies 
 <ul>
@@ -56,7 +56,7 @@ App helps you to get current positive or negative involvement of Twitter's users
 </ul>
 
 #### 💡 Notes
-For this project I also used currently deprecated framework - Swifter. I needed a single method so it was possible with some fixes. MLModel used - "tweetModel"
+For this project, I also used currently deprecated framework - Swifter. I needed a single method so it was possible with some fixes. MLModel used - "tweetModel"
 
 #### 🔎 Preview
 
@@ -66,7 +66,7 @@ For this project I also used currently deprecated framework - Swifter. I needed 
 
 ## Weather App with Weather API and CoreLocation
 
-Simple app which allows user to get actual weather data. User's geo and dark mode supported
+Simple app which allows user to get actual weather data. The user's geo and dark mode supported
 
 #### ⚙️ Technologies 
 <ul>
@@ -94,7 +94,7 @@ All the necessary functionality for a ToDo app with a colorful gradient design
 </ul>
 
 #### 💡 Notes
-During development of this app at some point I switched from CoreData to Realm to learn and compare both tools
+During the development of this app at some point I switched from CoreData to Realm to learn and compare both tools
 
 #### 🔎 Preview
 
@@ -104,7 +104,7 @@ During development of this app at some point I switched from CoreData to Realm t
 
 ## Bill + Tip split App 
 
-Just a calculator! Insert your total bill, choose number of people to share between, add a tip percentage if you want and receive amount of money each of you have to pay. Currency localization supported
+Just a calculator! Insert your total bill, choose the number of people to share between, add a tip percentage if you want, and receive the amount of money each of you has to pay. Currency localization supported
 
 #### ⚙️ Technologies 
 <ul>
