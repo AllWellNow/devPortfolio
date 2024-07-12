@@ -32,7 +32,7 @@ Hungry helps you to lose weight in the most efficient way - intermittent (or int
 Design was applied with Storyboards, Auto-Layout and programmaticaly 
 
 #### 💡 Notes
-This one is the current flagman solo-developed project of mine <a href="https://apps.apple.com/pl/app/hungry-intermittent-fasting/id6446183174">available</a> on the AppStore. The app requires no account creation to use it, also it's totally free, no paid features included. 
+This one is the current flagman solo-developed project of mine available on the AppStore. The app requires no account creation to use it, also it's totally free, no paid features included. 
 The idea was to create a user-friendly fasting app with all the necessary functions plus some extra ones and make it free to easen the fasting process for the newcomers
 
 #### 🔎 Preview
