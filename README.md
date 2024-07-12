@@ -1,9 +1,7 @@
 # iOS Developer Portfolio
-Hi! I'm Misha, a junior iOS developer. Welcome to my portfolio :)
+Hi! I'm Misha, and I'm a Sowtware developer. This is my iOS portfolio :)
 
 The structure of this portfolio is a list of the projects I've done during my path through coding. I'm also adding short descriptions, technologies used, and extra notes to some projects in this list.
-
-Any questions appeared? Ask me directly! Contact info available right after the last project in the portfolio
 
 ## <a href="https://apps.apple.com/pl/app/hungry-intermittent-fasting/id6446183174">Hungry</a> - an Intermittent Fasting App
 
