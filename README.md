@@ -1,5 +1,5 @@
 # iOS Developer Portfolio
-Hi! I'm Misha, and I'm a Sowtware developer. This is my iOS portfolio :)
+Hi! I'm Misha and I'm a Sowtware developer. This is my iOS portfolio :)
 
 The structure of this portfolio is a list of the projects I've done during my path through coding. I'm also adding short descriptions, technologies used, and extra notes to some projects in this list.
 
