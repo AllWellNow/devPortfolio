@@ -3,7 +3,7 @@ Hi! I'm Misha, and I'm a Sowtware developer. This is my iOS portfolio :)
 
 The structure of this portfolio is a list of the projects I've done during my path through coding. I'm also adding short descriptions, technologies used, and extra notes to some projects in this list.
 
-## <a href="https://apps.apple.com/pl/app/hungry-intermittent-fasting/id6446183174">Hungry</a> - an Intermittent Fasting App
+## Hungry - an Intermittent Fasting App
 
 Hungry helps you to lose weight in the most efficient way - intermittent (or interval) fasting. Some of the core possibilities of the app are:
 <ul>
