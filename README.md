@@ -1,5 +1,5 @@
-# iOS Developer Portfolio
-Hi! I'm Misha and I'm a software developer. This is my iOS portfolio :) || **NOT VALID ATM**
+# Developer Portfolio
+Hi! I'm Misha and I'm a software developer. || **NOT VALID ATM || +2 PROJECTS TO BE ADDED**
 
 The structure of this portfolio is a list of the projects I've done during my path through coding. I'm also adding short descriptions, technologies used, and extra notes to some projects in this list.
 
